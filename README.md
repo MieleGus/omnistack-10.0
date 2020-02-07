@@ -1,2 +1,2 @@
-# omnistack-10.0
+# DevRadar
 Projeto desenvolvido durante a semana Omnistack 10
